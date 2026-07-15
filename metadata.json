@@ -1,0 +1,11 @@
+{
+  "name": "Remix: FaceTime \u0026 Group Chat",
+  "description": "A real-time FaceTime-style group video calling and chat platform.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
